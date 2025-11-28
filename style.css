@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  .center-img {
+    text-align: center;
+    margin: 20px 0;
+  }
+
+  .center-img img {
+    width: 300px;
+    max-width: 100%;
+  }
+
+  .extra-img {
+    width: 250px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
